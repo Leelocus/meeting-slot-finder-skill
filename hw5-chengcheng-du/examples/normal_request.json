@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Avery",
+      "timezone": "America/Los_Angeles",
+      "work_hours": {"start": "08:00", "end": "11:00"}
+    },
+    {
+      "name": "Mina",
+      "timezone": "Europe/London",
+      "work_hours": {"start": "16:00", "end": "19:00"}
+    },
+    {
+      "name": "Rohan",
+      "timezone": "Asia/Dubai",
+      "work_hours": {"start": "19:00", "end": "22:00"}
+    }
+  ],
+  "duration_minutes": 60,
+  "earliest_start": "2026-04-27T00:00:00+08:00",
+  "days_to_search": 7,
+  "top_k": 3,
+  "meeting_days": [0, 1, 2, 3, 4]
+}
